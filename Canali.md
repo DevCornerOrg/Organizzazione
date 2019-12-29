@@ -11,10 +11,11 @@ L'elenco include anche canali che potrebbero al momento non essere stati valutat
 
 - [Portale DevCorner](http://devcorner.org)
 - Facebook (pagina o gruppo)
-- Twitter
+- [Twitter](https://twitter.com/devcornerorg)
 - LinkedIn (gruppo)
 - Medium
 - EventBrite
 - Meetup
 - YouTube (canale)
 - Vimeo (canale)
+- Slack
